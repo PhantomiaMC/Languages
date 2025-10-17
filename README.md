@@ -1,2 +1,2 @@
 # Languages
- Language files for Phantomia
+ Language files for Orium Games
