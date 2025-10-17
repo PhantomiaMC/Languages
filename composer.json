@@ -1,6 +1,6 @@
 {
-    "name": "phantomia/locale-data",
-    "description": "Language files for Phantomia",
+    "name": "oriumgames/locale-data",
+    "description": "Language files for Orium Games",
     "type": "library",
     "require": {}
 }
