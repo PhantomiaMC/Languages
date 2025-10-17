@@ -1,0 +1,6 @@
+{
+    "name": "phantomia/locale-data",
+    "description": "Language files for PhantomiaP",
+    "type": "library",
+    "require": {}
+}
